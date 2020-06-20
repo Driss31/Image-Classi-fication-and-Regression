@@ -1,0 +1,4 @@
+#https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+
+.ipynb_checkpoints/
+__pycache__/
